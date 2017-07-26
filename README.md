@@ -18,4 +18,4 @@ Start tool: python3 askt.py
 
 # Info
 
-This program scans the site for vulnerabilities(SQL,XXS), finger admin panel and found site dirs 
+This program scans the site for vulnerabilities(SQL,XXS), finger admin panel and found site dirs. Perfect for ScriptKiddies !!
